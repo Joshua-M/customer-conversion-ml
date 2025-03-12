@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Machine Learning Script
 ```sh
-python src/customer_conversion_ml.py
+python/customer_conversion_ml.py
 ```
 
 ## 📊 Dataset
